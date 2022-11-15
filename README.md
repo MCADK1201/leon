@@ -41,6 +41,11 @@ _<p align="center">Your open-source personal assistant.</p>_
 
 ## 👋 Introduction
 
+**packages**
+```
+npm install tree-kill @aws-sdk/client-polly @fastify/static @ffmpeg-installer/ffmpeg @ffprobe-installer/ffprobe @google-cloud/speech @google-cloud/text-to-speech @nlpjs/builtin-microsoft @nlpjs/core-loader @nlpjs/lang-all @nlpjs/nlp @segment/ajv-human-errors @sinclair/typebox ajv ajv-formats archiver async axios cross-env dayjs dotenv execa extract-zip fastify fluent-ffmpeg getos googleapis ibm-watson node-wav os-name pretty-bytes pretty-ms socket.io socket.io-client stt
+```
+
 **Leon** is an **open-source personal assistant** who can live **on your server**.
 
 He **does stuff** when you **ask him to**.
